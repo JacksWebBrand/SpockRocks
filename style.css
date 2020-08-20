@@ -100,6 +100,10 @@ h2 {
     height: 580px;
   }
 
+  .choice {
+    padding-right: 12px;
+  }
+
   h1 {
     font-size: 24px;
   }
@@ -122,6 +126,10 @@ h2 {
 @media screen and (max-width: 376px) {
   .game-container {
     height: 550px;
+  }
+
+  .choice {
+    padding-right: 12px;
   }
 
   h1 {
